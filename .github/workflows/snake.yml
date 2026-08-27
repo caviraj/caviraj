@@ -1,3 +1,4 @@
+# Trigger Snake Grid Generator Workflow
 name: Generate Snake Contribution Grid
 
 on:
