@@ -29,16 +29,6 @@
 
 <br/>
 
-### 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <a href="https://github.com/caviraj">
-    <img src="https://github-profile-trophy.vercel.app/?username=caviraj&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Caviraj's GitHub Trophies" width="100%" />
-  </a>
-</div>
-
----
-
 ### 🧠 Terminal Overview
 
 ```bash
@@ -96,41 +86,30 @@
 <div align="center">
   <p><b>My GitHub Contribution Graph eaten by the Snake 🐍</b></p>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caviraj/caviraj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caviraj/caviraj/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
 
-### 📈 Activity & Commit Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caviraj&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-### 📊 GitHub Metrics Dashboard
+### 📊 GitHub Metrics & Summary Dashboard
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img height="190" src="https://github-readme-stats.vercel.app/api?username=caviraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Caviraj's GitHub Stats" />
-      </td>
-      <td>
-        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caviraj&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caviraj&theme=tokyonight" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caviraj&theme=tokyonight" width="49%" />
+  </p>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caviraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caviraj&theme=tokyonight" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caviraj&theme=tokyonight" width="49%" />
+  </p>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=caviraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 
 </div>
 
@@ -152,23 +131,13 @@
   <summary><b>🎨 Pro UX Web Architecture & Micro-Frontends</b> (Click to expand)</summary>
   <br/>
   <ul>
-    <li><b>Frontend Framework</b>: Next.js App Router, React 19 Server Components</li>
+    <li><b>Framework</b>: Next.js App Router, React 19 Server Components</li>
     <li><b>Styling System</b>: Tailwind CSS, Glassmorphic UI Tokens, Custom Motion Framer animations</li>
     <li><b>Performance Target</b>: 100/100 Lighthouse score across performance, accessibility, & SEO</li>
   </ul>
 </details>
 
 ---
-
-### 💡 Daily Dev Quote
-
-<div align="center">
-  <a href="https://github.com/caviraj">
-    <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  </a>
-</div>
-
-<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -199,5 +168,3 @@
 <div align="center">
   <sub>Built with ❤️ by <b>Caviraj</b> • Powered by UI/UX Pro Max & Snake Animation</sub>
 </div>
-
-
