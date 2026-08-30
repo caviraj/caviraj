@@ -153,7 +153,7 @@
 <div align="center">
   <p><b>My GitHub Contribution Graph eaten by the Snake 🐍</b></p>
   
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/caviraj/caviraj/output/dist/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/caviraj/caviraj/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
@@ -191,7 +191,7 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/ncaviraj">
+  <a href="https://linkedin.com/in/cavirajn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ncaviraj@gmail.com">
