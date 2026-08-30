@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=230&section=header&text=CAVIRAJ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=230&section=header&text=CAVIRAJ%20N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <br/>
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%91%8B+Welcome+to+Caviraj's+Developer+Universe!;%F0%9F%9A%80+Principal+Software+Engineer+%26+System+Architect;%F0%9F%A4%96+Agentic+AI+%26+Autonomous+Systems+Specialist;%E2%9C%A8+30%2B+Years+Engineering+Mindset+%26+Open+Source+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Caviraj+N+%7C+AI+%26+Data+Science+Engineer;%F0%9F%A4%96+Agentic+AI,+RAG+%26+Full-Stack+Systems+Specialist;%F0%9F%92%BB+React+19+%E2%80%A2+Angular+17+%E2%80%A2+FastAPI+%E2%80%A2+Supabase;%F0%9F%8F%86+Hackathon+Builder+(Google+Solution+Challenge,+InnovateX)" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -21,7 +21,7 @@
   <p align="center">
     <a href="https://github.com/caviraj"><img src="https://img.shields.io/github/followers/caviraj?label=Followers&style=for-the-badge&color=0969da&logo=github" alt="Followers"/></a>
     <a href="https://github.com/caviraj"><img src="https://img.shields.io/github/stars/caviraj?series=caviraj&style=for-the-badge&color=8a2be2&logo=github" alt="Total Stars"/></a>
-    <img src="https://img.shields.io/badge/Status-Architecting_AI_Agents-success?style=for-the-badge&logo=rocket&color=00c853" alt="Status"/>
+    <img src="https://img.shields.io/badge/Status-Building_Agentic_Systems-success?style=for-the-badge&logo=rocket&color=00c853" alt="Status"/>
     <img src="https://komarev.com/ghpvc/?username=caviraj&label=Profile%20Views&color=0e75ea&style=for-the-badge" alt="Profile Views"/>
   </p>
 
@@ -34,11 +34,11 @@
 ```bash
 ⚡ caviraj@dev-machine:~$ ./profile_info.sh
 
-> EXPERIENCE     : 30+ Years Software Engineering Mindset & System Architecture
-> CORE FOCUS     : Agentic AI Systems, Multi-Agent Orchestration, High-Scale Systems
-> TECH STACK     : Python, TypeScript, React/Next.js, LangChain, PyTorch, Docker, K8s
-> CURRENT STATUS : Architecting autonomous AI workflows & full-stack web platforms
-> PHILOSOPHY     : "Clean Code, Robust Architecture, Exceptional UI/UX."
+> EDUCATION      : 3rd Year B.Tech in Artificial Intelligence & Data Science @ V.S.B Engineering College (Grad 2028 | CGPA: ~7.75)
+> CORE FOCUS     : Agentic AI, RAG, Computer Vision, Data Analysis, Full-Stack Development
+> TECH STACK     : Python, Java, FastAPI, React 19, Angular 17, Supabase, LangChain
+> CURRENT STATUS : Building hackathon MVPs & scalable AI platforms
+> PHILOSOPHY     : "Solve complex problems with clean code and dynamic architectures."
 ```
 
 ---
@@ -48,13 +48,13 @@
 <table border="0">
   <tr>
     <td width="60%">
-      Hello! I'm <b>Caviraj</b>, a Principal Software Engineer, System Architect, and AI Specialist. I build enterprise-grade, high-performance software systems with cutting-edge UI/UX and autonomous Agentic AI workflows.
+      Hello! I'm <b>Caviraj N</b>, a passionate AI & Data Science Engineering student with a strong track record of building impactful projects and winning hackathons. I specialize in developing end-to-end full-stack applications and architecting intelligent, Agentic AI systems.
       <br/><br/>
       <ul>
-        <li>🔭 <b>Currently Building</b>: Autonomous Multi-Agent AI Frameworks & Next.js Pro Dashboards</li>
-        <li>⚡ <b>Core Expertise</b>: System Architecture, Microservices, LLM Orchestration, Full-Stack Web</li>
-        <li>🌱 <b>Exploring</b>: WASM micro-runtimes, Edge AI Models, Vector Database Indexing</li>
-        <li>💬 <b>Ask Me About</b>: System Scalability, Python/TypeScript Engineering, UI/UX Pro Max</li>
+        <li>🔭 <b>Currently Building</b>: AI-driven web apps using React 19, FastAPI, and Supabase.</li>
+        <li>⚡ <b>Core Expertise</b>: Machine Learning, NLP, Data Analytics, Microservices.</li>
+        <li>🏆 <b>Hackathon Focus</b>: Rapid prototyping for Google Solution Challenge, MemoryVerse AI, and InnovateX.</li>
+        <li>🌱 <b>Actively Learning</b>: Advanced DSA (LeetCode), System Design, and Edge AI deployment.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -69,15 +69,82 @@
 
 <div align="center">
 
-| Domain | Technologies & Animated Badges |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frontend & UI/UX** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **AI & Agentic Systems** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| **Databases & Vector DBs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **AI/ML & Agentic Systems** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Frontend & UI** | ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Databases & Cloud** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Google Sheets API](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 </div>
+
+---
+
+### 🏆 Featured Hackathons & Projects
+
+<details open>
+  <summary><b>🆔 Digital Identity System</b> (MemoryVerse AI '26 Hackathon Solo Build)</summary>
+  <br/>
+  <ul>
+    <li><b>Tech Stack</b>: React 19, FastAPI, Supabase + pgvector, Gemini API.</li>
+    <li><b>Description</b>: Designed a decentralized next-gen identity platform leveraging advanced AI-based memory retrieval and embeddings.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>🎙️ InterviewForge AI</b> (Google Solution Challenge 2026)</summary>
+  <br/>
+  <ul>
+    <li><b>Description</b>: An automated mock interview platform providing real-time evaluation and detailed candidate feedback powered by advanced LLMs.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>🌉 SkillBridge AI</b> (InnovateX 4.0 - Presidency University)</summary>
+  <br/>
+  <ul>
+    <li><b>Description</b>: Built with a 4-person team, this intelligent skill-gap analysis engine creates personalized learning pathways for job seekers.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📈 Stock Market Prediction Platform</b></summary>
+  <br/>
+  <ul>
+    <li><b>Tech Stack</b>: Angular 17, FastAPI.</li>
+    <li><b>Description</b>: Intelligent financial forecasting using LSTM, Random Forest, ARIMA, and VADER sentiment analysis for holistic market insights.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>💡 AI PriceOptima & 📦 Amazon Product Scraper</b></summary>
+  <br/>
+  <ul>
+    <li><b>AI PriceOptima</b>: Commodity price optimization & demand forecasting engine developed during the Infosys Springboard Internship.</li>
+    <li><b>Amazon Scraper</b>: Automated data extraction & analytics pipeline using Python, Selenium, BeautifulSoup, and Google Sheets API.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🌐 Civic, Healthcare & E-Commerce Builds</b></summary>
+  <br/>
+  <ul>
+    <li><b>MediBook</b>: Hospital appointment booking with an interactive 3D UI and intelligent doctor recommendation scoring visualizer.</li>
+    <li><b>Bilingual Meat Delivery App</b>: React 19 frontend integrated with a WhatsApp Bot and FastAPI/Supabase backend featuring a secure payment architecture.</li>
+    <li><b>CivicAI</b>: Integration & AI lead for a civic complaint resolution and classification system.</li>
+    <li><b>Spinning Mill Employee Management</b>: OCR-driven attendance system with automated WhatsApp timekeeping.</li>
+  </ul>
+</details>
+
+---
+
+### 💼 Internships & Certifications
+
+- **Infosys Springboard Virtual Internship**: Developed *AI PriceOptima* for commodity price modeling and forecasting.
+- **NASSCOM FutureSkills Prime Virtual Internship**: Specialized in AI, data analytics, and modern software architectures.
+- **NPTEL Certification**: Certified in Java Programming.
 
 ---
 
@@ -86,7 +153,7 @@
 <div align="center">
   <p><b>My GitHub Contribution Graph eaten by the Snake 🐍</b></p>
   
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/caviraj/caviraj/output/dist/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
@@ -115,30 +182,6 @@
 
 ---
 
-### 🚀 Interactive Architecture Breakdown
-
-<details>
-  <summary><b>🤖 Agentic AI & Autonomous Multi-Agent Orchestration</b> (Click to expand)</summary>
-  <br/>
-  <ul>
-    <li><b>Framework</b>: LangChain, LlamaIndex, Custom Agent Swarm Runtimes</li>
-    <li><b>Memory & State</b>: Redis Checkpointers + Qdrant Vector Search</li>
-    <li><b>Execution Layer</b>: Asynchronous Python FastAPI worker nodes with task scheduling</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🎨 Pro UX Web Architecture & Micro-Frontends</b> (Click to expand)</summary>
-  <br/>
-  <ul>
-    <li><b>Framework</b>: Next.js App Router, React 19 Server Components</li>
-    <li><b>Styling System</b>: Tailwind CSS, Glassmorphic UI Tokens, Custom Motion Framer animations</li>
-    <li><b>Performance Target</b>: 100/100 Lighthouse score across performance, accessibility, & SEO</li>
-  </ul>
-</details>
-
----
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -148,17 +191,11 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/caviraj">
+  <a href="https://linkedin.com/in/ncaviraj">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/caviraj">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:caviraj@example.com">
+  <a href="mailto:ncaviraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/caviraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </div>
@@ -166,5 +203,5 @@
 <br/>
 
 <div align="center">
-  <sub>Built with ❤️ by <b>Caviraj</b> • Powered by UI/UX Pro Max & Snake Animation</sub>
+  <sub>Built with ❤️ by <b>Caviraj N</b></sub>
 </div>
